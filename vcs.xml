@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Ph-D/android-fun-facts-github.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/treehouse-projects/java-unittesting-vendingmachine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/Github/Github_Fun_Facts" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/Github/java-unittesting-vendingmachine" />
   </component>
 </application>
